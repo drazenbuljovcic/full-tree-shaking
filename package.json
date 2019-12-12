@@ -1,0 +1,18 @@
+{
+  "name": "full-shaking-project",
+  "version": "0.1.0",
+  "description": "Tree shaking concept!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendra1994/tree-shaking-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zendra1994/tree-shaking-project/issues"
+  },
+  "homepage": "https://github.com/zendra1994/tree-shaking-project#readme"
+}
