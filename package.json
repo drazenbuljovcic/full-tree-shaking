@@ -6,13 +6,13 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zendra1994/tree-shaking-project.git"
+    "url": "git+https://github.com/zendra1994/full-tree-shaking.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zendra1994/tree-shaking-project/issues"
+    "url": "https://github.com/zendra1994/full-tree-shaking/issues"
   },
-  "homepage": "https://github.com/zendra1994/tree-shaking-project#readme"
+  "homepage": "https://github.com/zendra1994/full-tree-shaking#readme"
 }

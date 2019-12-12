@@ -1,0 +1,6 @@
+[submodule "tree-shaking-lib"]
+	path = tree-shaking-lib
+	url = git@github.com:zendra1994/tree-shaking-lib.git
+[submodule "tree-shaking-project"]
+	path = tree-shaking-project
+	url = git@github.com:zendra1994/tree-shaking-project.git
